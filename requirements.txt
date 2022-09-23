@@ -26,7 +26,7 @@ numpy==1.14.5
 pbr==4.2.0
 Pillow==5.2.0
 pkg-resources==0.0.0
-protobuf==3.6.1
+protobuf==3.18.3
 pylint==1.9.3
 requests==2.19.1
 requests-toolbelt==0.8.0
